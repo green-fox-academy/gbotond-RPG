@@ -1,0 +1,14 @@
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\bin\Debug\RPG.exe.config
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\bin\Debug\RPG.exe
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\bin\Debug\RPG.pdb
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\obj\Debug\MainWindow.g.cs
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\obj\Debug\App.g.cs
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\obj\Debug\RPG_MarkupCompile.cache
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\obj\Debug\RPG_MarkupCompile.lref
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\obj\Debug\MainWindow.baml
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\obj\Debug\RPG.g.resources
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\obj\Debug\RPG.Properties.Resources.resources
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\obj\Debug\RPG.csproj.GenerateResource.Cache
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\obj\Debug\RPG.csproj.CoreCompileInputs.cache
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\obj\Debug\RPG.exe
+C:\Users\Botond\Documents\Greenfox\gbotond-RPG\RPG\RPG\obj\Debug\RPG.pdb
